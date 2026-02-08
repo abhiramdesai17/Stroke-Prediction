@@ -112,5 +112,3 @@ Together, these metrics ensure that StrokeGuard delivers meaningful value beyond
 
 ---
 
-## 📂 Repository Structure
-
